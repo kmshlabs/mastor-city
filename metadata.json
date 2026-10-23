@@ -1,0 +1,6 @@
+{
+  "name": "Mostar city",
+  "description": "A cinematic three-screen scroll story for Mostar city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
